@@ -3,9 +3,19 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "jquery": "^3.4.1",
+    "mdbootstrap": "^4.8.7",
+    "mdbreact": "^4.18.1",
+    "node-sass": "^4.12.0",
     "react": "^16.8.6",
+    "react-card-flip": "^0.8.1",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-emotion": "^10.0.0",
+    "react-reveal": "^1.2.2",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "styled-components": "^4.3.2",
+    "use-smooth-scroll": "^1.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
