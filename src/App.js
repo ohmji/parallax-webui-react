@@ -54,7 +54,7 @@ class App extends React.Component {
               >
               <div style={{lineHeight: '1.6' ,marginTop : '75px' }}>
              
-              PARALLAX FLAMINGO</div>
+              PARALLAX FLAMINGO HELLO WORLD</div>
               </Plc>
               
               </p></h1></MDBCol> 
